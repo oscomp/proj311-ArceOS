@@ -65,10 +65,12 @@ ArceOS是基于组件化设计的思路，用Rust语言的丰富语言特征，�
 - 姓名：郭丁丁
 - 单位：飞腾信息技术有限公司
 - email：[guodingding1657@phytium.com.cn](mailto:guodingding1657@phytium.com.cn)
+
 **飞腾小车支持导师**
 - 姓名：连宇飞
 - 单位：飞腾信息技术有限公司
 - email：[lianyufei@phytium.com.cn](mailto:lianyufei@phytium.com.cn)
+
 **飞腾技术支持导师**
 - 姓名：李阳
 - 单位：飞腾信息技术有限公司
